@@ -2,7 +2,7 @@
 ### Software Engineer | AI Innovator | Aspiring Product Manager
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rawat-priyanshu/) 
-[![Portfolio](https://img.shields.io/badge/Project-DB_Genius-green?style=flat-square)](https://www.priyanshu-rawat.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio?style=flat-square)](https://www.priyanshu-rawat.netlify.app/)
 
 ---
 
@@ -28,13 +28,13 @@ I bridge the gap between complex code and business value. I don’t just build f
 ---
 
 ## ⚡ Quick Bits
-- [cite_start]🎓 **Education:** MCA from Uttaranchal University (8.93 CGPA).
-- [cite_start]🎖️ **Leadership:** Recommended by the AirForce Selection Board (NDA/AFCAT).
+- 🎓 **Education:** MCA from Uttaranchal University (8.93 CGPA).
+- 🎖️ **Leadership:** Recommended by the AirForce Selection Board (NDA/AFCAT).
 - 🎙️ **Content:** I host a podcast/YT channel where I share what i find and learn from humans.
 - 💬 **Ask me about:** AI Agents, Microservices, and why the "Why" matters more than the "How."
 
 ---
 
 ## 📫 Let's Connect
-- [cite_start]📧 Email: [priyanshurawat.business@gmail.com](mailto:priyanshurawat.business@gmail.com) [cite: 3]
+- 📧 Email: [priyanshurawat.business@gmail.com](mailto:priyanshurawat.business@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rawat-priyanshu/)

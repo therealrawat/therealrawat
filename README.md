@@ -2,7 +2,7 @@
 ### Software Engineer | AI Innovator | Aspiring Product Manager
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rawat-priyanshu/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio?style=flat-square)](https://priyanshu-rawat.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=konva&logoColor=white)](https://priyanshu-rawat.netlify.app/)
 
 ---
 

@@ -2,7 +2,7 @@
 ### Software Engineer | AI Innovator | Aspiring Product Manager
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rawat-priyanshu/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio?style=flat-square)](https://www.priyanshu-rawat.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio?style=flat-square)](https://priyanshu-rawat.netlify.app/)
 
 ---
 
@@ -22,9 +22,10 @@ I bridge the gap between complex code and business value. I don’t just build f
 ---
 
 ## 📊 My GitHub Stats
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealrawat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealrawat&layout=compact&theme=radical)
-
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=therealrawat&show_icons=true&theme=radical" alt="Priyanshu's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealrawat&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
 ## ⚡ Quick Bits

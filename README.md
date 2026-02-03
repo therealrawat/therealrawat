@@ -3,7 +3,7 @@
 ### Software Engineer | AI Innovator | Aspiring Product Manager
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=hugto&logoColor=white)](https://www.priyanshurawat.co.in)
-[![Instagram](https://img.shields.io/badge/-Instagram-181717?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram/lowwhiskey)
+[![Instagram](https://img.shields.io/badge/-Instagram-181717?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lowwhiskey)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawat-priyanshu)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/therealrawat)
 
